@@ -33,7 +33,7 @@ public class TeleportToSpawn {
         float pitch = (float) spawnConfig.getDouble("spawn.pitch");
 
         player.teleport(new Location(world, x, y, z, yaw, pitch));
-        player.sendMessage(Strings.getMessage("prefix") + Strings.getMessage("successful_spawn_teleport"));
+        player.sendMessage(Strings.getMessage("prefix") + Strings.getMessage("succeful_spawn_teleport"));
         return true;
     }
 }

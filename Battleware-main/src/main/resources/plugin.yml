@@ -5,6 +5,7 @@ api-version: '1.21'
 authors: [ EPAXGAMING ,samsung_9775]
 description: A War Game Plugin
 commands:
+  warfareessentials:
   gm:
   gamemode:
   fly:
@@ -13,9 +14,12 @@ commands:
   v:
   setwarp:
   warp:
+  adminStart:
   ec:
   enderchest:
   sethome:
   home:
+  setspawn:
+  spawn:
 
 

@@ -39,7 +39,7 @@ public class warteSchlange {
             public void run() {
                 if (countdown > 0) {
                     for (Player player : Bukkit.getOnlinePlayers()) {
-                        player.sendTitle(farben[5 - countdown] + "" + countdown, "Die Runde startet gleich!", 5, 20, 5);
+                        player.sendTitle(farben[5 - countdown] + "" + countdown, "Rounds starts soon", 5, 20, 5);
                     }
                     countdown--;
                 } else {

@@ -1,3 +1,4 @@
+C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\captureflaglogic\listener\onBlockTouch.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\commands\EnderChest.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\commands\Fly.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\commands\Gamemode.java
@@ -7,6 +8,7 @@ C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\w
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\commands\Spawn\Spawn.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\commands\unban.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\commands\Vanish.java
+C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\commands\WarfareEssentials.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\commands\warp\SetWarp.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\commands\warp\Warp.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\Config\Strings.java
@@ -14,6 +16,7 @@ C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\w
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\tabcompleter\GamemodeTabCompleter.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\tabcompleter\HomeTabCompleter.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\tabcompleter\UnbanTabCompleter.java
+C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\tabcompleter\WarfareEssentialsTabCompleter.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\tabcompleter\WarpTabCompleter.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\Tablist\Tab.java
 C:\Users\EPAXGAMING\Downloads\Battleware-main\Battleware-main\src\main\java\de\warfare\warFareBattlefrontsMinecraftPlugin\essentialsx\Util\TeleportToSpawn.java

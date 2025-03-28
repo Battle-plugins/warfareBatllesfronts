@@ -1,6 +1,6 @@
 messages:
   #sends
-  prefix: "§cWarFare-Battlefronts§f : $a"
+  prefix: "§cWarFare-Battlefronts§f : §a"
   not_allowed: "You don't have permission to do that!"
   non_player: "You must be a player to do that!"
   activated_fly: "Flying is now enabled!"

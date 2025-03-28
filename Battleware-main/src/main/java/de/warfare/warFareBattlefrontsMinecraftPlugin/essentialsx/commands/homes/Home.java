@@ -56,7 +56,7 @@ public class Home implements CommandExecutor {
 
         Location homeLocation = new Location(world, x, y, z, yaw, pitch);
         p.teleport(homeLocation);
-        p.sendMessage(Strings.getMessage("prefix") + Strings.getMessage("home_teleportet"));
+        p.sendMessage(Strings.getMessage("prefix") + Strings.getMessage("home_teleportet")+homeName);
 
         return true;
     }
