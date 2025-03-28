@@ -1,0 +1,51 @@
+messages:
+  #sends
+  prefix: "§cWarFare-Battlefronts§f : $a"
+  not_allowed: "You don't have permission to do that!"
+  non_player: "You must be a player to do that!"
+  activated_fly: "Flying is now enabled!"
+  deactivated_fly: "Flying is now disabled!"
+  creative_mode: "You are now in Gamemode Creative!"
+  survival_mode: "You are now in Gamemode Survival!"
+  adventure_mode: "You are now in Gamemode Adventure!"
+  spectator_mode: "You are now in Gamemode Spectator!"
+  unban: "Successfully unbanned Player: "
+  non_banned_player: "This player is not banned!"
+  disabled_vanish: "You are now visible!"
+  enabled_vanish: "You are now invisible!"
+  enderchest_open: "You opened your Enderchest!"
+  fly_eror: "You must be in Survival or in Adventure Mode!"
+  offline_player: "this Player is not Online!"
+  opened_enderchest: "you opened the Enderchest from: "
+  new_round_start  : " new rounds starts in 5 seconds"
+  only_player_warp: "only Players kann Make a Warp!"
+  warp_name: "you must be create a WarpName !"
+  setted_warp: "you setted the warp :"
+  non_existent_warp: "this warp do not exist"
+  world_not_found: "world not fouded!"
+  succeful_warp_teleport: "succefully teleportet to warp :"
+  no_home : "You never setted a Home!"
+  non_existet_home : "this home do not Exists!"
+  world_dont_exist_home : "the world wehere the home is does not exists!"
+  home_setted : "Succesfully setted home : "
+  home_teleportet: "you teleportet to your Home : "
+  home_name : "Please use a Nameby home Creation!"
+  home_creation_eror: "unsuccesfully created home pls try Again!"
+  failed_home : "cant save the Home !"
+  spawn_setted: "Succesfully seeted spawn"
+  only_player_spawn : "only players can create a Spawn!"
+  succeful_spawn_teleport : "succesfully teleportet to Spawn!"
+  game_start: "Game Starts  in 5 seconds"
+  enough_player : "got enough player to start game"
+  started: "the round started"
+  #usages
+  unban_usage: "Usage: /unban <Player>"
+  warp_usage : "Usage: /warp <Warpname>"
+  home_usage : "Usage /home <homename>"
+
+
+
+
+
+
+

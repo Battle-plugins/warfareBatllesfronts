@@ -1,0 +1,21 @@
+name: WarFare-Battlefronts-MinecraftPlugin
+version: '0.1'
+main: de.warfare.warFareBattlefrontsMinecraftPlugin.WarFareBattlefrontsMinecraftPlugin
+api-version: '1.21'
+authors: [ EPAXGAMING ,samsung_9775]
+description: A War Game Plugin
+commands:
+  gm:
+  gamemode:
+  fly:
+  unban:
+  vanish:
+  v:
+  setwarp:
+  warp:
+  ec:
+  enderchest:
+  sethome:
+  home:
+
+
