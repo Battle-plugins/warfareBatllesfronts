@@ -38,10 +38,17 @@ messages:
   game_start: "Game Starts  in 5 seconds"
   enough_player : "got enough player to start game"
   started: "the round started"
+  not_online: "this player is not online"
+  want_teleport : "this Player wants to Teleport to you!"
+  sended_tpa : "you sendet a TpRequest to:"
+
+
+
   #usages
   unban_usage: "Usage: /unban <Player>"
   warp_usage : "Usage: /warp <Warpname>"
   home_usage : "Usage /home <homename>"
+  tpaUsage: "Usage: /tpa <Spieler>"
 
 
 
