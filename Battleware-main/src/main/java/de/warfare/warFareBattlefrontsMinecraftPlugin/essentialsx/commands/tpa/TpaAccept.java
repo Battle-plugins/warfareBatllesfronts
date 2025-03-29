@@ -42,6 +42,7 @@ public class TpaAccept implements CommandExecutor {
         requester.sendMessage(ChatColor.GREEN + player.getName() + " hat deine Teleportationsanfrage akzeptiert...");
 
         tpaRequests.remove(player.getName());
+        //fick die github.com
 
         return true;
     }
