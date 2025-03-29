@@ -41,6 +41,7 @@ messages:
   not_online: "this player is not online"
   want_teleport : "this Player wants to Teleport to you!"
   sended_tpa : "you sendet a TpRequest to:"
+  new_tp_request : "a Player wants to teleport to you with the name : "
 
 
 
